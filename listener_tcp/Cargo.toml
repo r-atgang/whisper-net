@@ -1,0 +1,10 @@
+[package]
+name = "listener_tcp"
+description = "TCP listener for whisper-net"
+version = "0.1.0"
+edition = "2024"
+author = "ratgang"
+
+
+[dependencies]
+alsa = "0.9.1"

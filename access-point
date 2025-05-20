@@ -1,0 +1,5 @@
+#!/bin/bash
+
+nmcli dev wifi hotspot ifname wlp3s0 ssid NETGEAR69 password "ChangeThis000$"
+
+
