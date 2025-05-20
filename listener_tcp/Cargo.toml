@@ -2,8 +2,9 @@
 name = "listener_tcp"
 description = "TCP listener for whisper-net"
 version = "0.1.0"
-edition = "2024"
+edition = "2025"
 author = "ratgang"
+license = "Apache-2.0"
 
 
 [dependencies]
