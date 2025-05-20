@@ -1,0 +1,10 @@
+[package]
+name = "listener_udp"
+description = "UDP listener for whisper-net"
+version = "0.1.0"
+edition = "2024"
+author = "ratgang"
+
+[dependencies]
+alsa = "0.9.1"
+crossbeam = "0.8.4"
